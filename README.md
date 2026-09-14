@@ -17,4 +17,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/vivekkumar-prog/leetcode-solutions/tree/master/0099-recover-binary-search-tree) |
+## Math
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/vivekkumar-prog/leetcode-solutions/tree/master/0836-rectangle-overlap) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/vivekkumar-prog/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
