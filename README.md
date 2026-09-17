@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/vivekkumar-prog/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0415-add-strings](https://github.com/vivekkumar-prog/leetcode-solutions/tree/master/0415-add-strings) |
 | [0917-reverse-only-letters](https://github.com/vivekkumar-prog/leetcode-solutions/tree/master/0917-reverse-only-letters) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/vivekkumar-prog/leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1880-check-if-word-equals-summation-of-two-words](https://github.com/vivekkumar-prog/leetcode-solutions/tree/master/1880-check-if-word-equals-summation-of-two-words) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/vivekkumar-prog/leetcode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Dynamic Programming
@@ -76,4 +77,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/vivekkumar-prog/leetcode-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+## Hash Table
+|  |
+| ------- |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/vivekkumar-prog/leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/vivekkumar-prog/leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+## Counting
+|  |
+| ------- |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/vivekkumar-prog/leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 <!---LeetCode Topics End-->
