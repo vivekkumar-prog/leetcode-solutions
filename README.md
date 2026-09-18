@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/vivekkumar-prog/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0415-add-strings](https://github.com/vivekkumar-prog/leetcode-solutions/tree/master/0415-add-strings) |
 | [0836-rectangle-overlap](https://github.com/vivekkumar-prog/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/vivekkumar-prog/leetcode-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
