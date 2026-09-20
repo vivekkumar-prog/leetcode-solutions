@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/vivekkumar-prog/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0160-intersection-of-two-linked-lists](https://github.com/vivekkumar-prog/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0344-reverse-string](https://github.com/vivekkumar-prog/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/vivekkumar-prog/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0917-reverse-only-letters](https://github.com/vivekkumar-prog/leetcode-solutions/tree/master/0917-reverse-only-letters) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/vivekkumar-prog/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vivekkumar-prog/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/vivekkumar-prog/leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Sliding Window
@@ -95,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/vivekkumar-prog/leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+## Linked List
+|  |
+| ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/vivekkumar-prog/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 <!---LeetCode Topics End-->
