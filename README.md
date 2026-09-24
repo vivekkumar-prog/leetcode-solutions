@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/vivekkumar-prog/leetcode-solutions/tree/master/0007-reverse-integer) |
+| [0066-plus-one](https://github.com/vivekkumar-prog/leetcode-solutions/tree/master/0066-plus-one) |
 | [0415-add-strings](https://github.com/vivekkumar-prog/leetcode-solutions/tree/master/0415-add-strings) |
 | [0836-rectangle-overlap](https://github.com/vivekkumar-prog/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/vivekkumar-prog/leetcode-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/vivekkumar-prog/leetcode-solutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/vivekkumar-prog/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/vivekkumar-prog/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0643-maximum-average-subarray-i](https://github.com/vivekkumar-prog/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
