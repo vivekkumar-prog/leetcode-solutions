@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/vivekkumar-prog/leetcode-solutions/tree/master/0125-valid-palindrome) |
+| [0290-word-pattern](https://github.com/vivekkumar-prog/leetcode-solutions/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/vivekkumar-prog/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/vivekkumar-prog/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0415-add-strings](https://github.com/vivekkumar-prog/leetcode-solutions/tree/master/0415-add-strings) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/vivekkumar-prog/leetcode-solutions/tree/master/0001-two-sum) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vivekkumar-prog/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/vivekkumar-prog/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0290-word-pattern](https://github.com/vivekkumar-prog/leetcode-solutions/tree/master/0290-word-pattern) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vivekkumar-prog/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1748-sum-of-unique-elements](https://github.com/vivekkumar-prog/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/vivekkumar-prog/leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
