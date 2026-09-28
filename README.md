@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/vivekkumar-prog/leetcode-solutions/tree/master/0415-add-strings) |
 | [0836-rectangle-overlap](https://github.com/vivekkumar-prog/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/vivekkumar-prog/leetcode-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [2235-add-two-integers](https://github.com/vivekkumar-prog/leetcode-solutions/tree/master/2235-add-two-integers) |
 | [3875-construct-uniform-parity-array-i](https://github.com/vivekkumar-prog/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Geometry
 |  |
