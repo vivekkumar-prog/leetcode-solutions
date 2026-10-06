@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/vivekkumar-prog/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/vivekkumar-prog/leetcode-solutions/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/vivekkumar-prog/leetcode-solutions/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/vivekkumar-prog/leetcode-solutions/tree/master/0088-merge-sorted-array) |
@@ -67,11 +68,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/vivekkumar-prog/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/vivekkumar-prog/leetcode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Array
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vivekkumar-prog/leetcode-solutions/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/vivekkumar-prog/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/vivekkumar-prog/leetcode-solutions/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/vivekkumar-prog/leetcode-solutions/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/vivekkumar-prog/leetcode-solutions/tree/master/0066-plus-one) |
