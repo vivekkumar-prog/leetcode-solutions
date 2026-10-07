@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/vivekkumar-prog/leetcode-solutions/tree/master/0099-recover-binary-search-tree) |
+| [0209-minimum-size-subarray-sum](https://github.com/vivekkumar-prog/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vivekkumar-prog/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Binary Tree
 |  |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/vivekkumar-prog/leetcode-solutions/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/vivekkumar-prog/leetcode-solutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/vivekkumar-prog/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/vivekkumar-prog/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/vivekkumar-prog/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0643-maximum-average-subarray-i](https://github.com/vivekkumar-prog/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0977-squares-of-a-sorted-array](https://github.com/vivekkumar-prog/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/vivekkumar-prog/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/vivekkumar-prog/leetcode-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Hash Table
 |  |
@@ -117,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/vivekkumar-prog/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/vivekkumar-prog/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vivekkumar-prog/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/vivekkumar-prog/leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
