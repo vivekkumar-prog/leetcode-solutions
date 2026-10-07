@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/vivekkumar-prog/leetcode-solutions/tree/master/0415-add-strings) |
 | [0917-reverse-only-letters](https://github.com/vivekkumar-prog/leetcode-solutions/tree/master/0917-reverse-only-letters) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/vivekkumar-prog/leetcode-solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/vivekkumar-prog/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/vivekkumar-prog/leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1880-check-if-word-equals-summation-of-two-words](https://github.com/vivekkumar-prog/leetcode-solutions/tree/master/1880-check-if-word-equals-summation-of-two-words) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/vivekkumar-prog/leetcode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/vivekkumar-prog/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/vivekkumar-prog/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/vivekkumar-prog/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vivekkumar-prog/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/vivekkumar-prog/leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Counting
