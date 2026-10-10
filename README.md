@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vivekkumar-prog/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/vivekkumar-prog/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/vivekkumar-prog/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0290-word-pattern](https://github.com/vivekkumar-prog/leetcode-solutions/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/vivekkumar-prog/leetcode-solutions/tree/master/0344-reverse-string) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/vivekkumar-prog/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/vivekkumar-prog/leetcode-solutions/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/vivekkumar-prog/leetcode-solutions/tree/master/0027-remove-element) |
+| [0049-group-anagrams](https://github.com/vivekkumar-prog/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/vivekkumar-prog/leetcode-solutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/vivekkumar-prog/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/vivekkumar-prog/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/vivekkumar-prog/leetcode-solutions/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/vivekkumar-prog/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/vivekkumar-prog/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/vivekkumar-prog/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0977-squares-of-a-sorted-array](https://github.com/vivekkumar-prog/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -115,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/vivekkumar-prog/leetcode-solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vivekkumar-prog/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/vivekkumar-prog/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vivekkumar-prog/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/vivekkumar-prog/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0290-word-pattern](https://github.com/vivekkumar-prog/leetcode-solutions/tree/master/0290-word-pattern) |
